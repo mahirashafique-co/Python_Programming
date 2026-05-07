@@ -25,7 +25,4 @@ python filename.py
 
 ## Requirements
 - Python 3.x — [python.org](https://www.python.org/downloads/)
-
-
-
-- Python 3.x — [python.org](https://www.python.org/downloads/)
+- PyCharm IDE
