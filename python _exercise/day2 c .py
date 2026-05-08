@@ -23,3 +23,6 @@ print(name.upper())
 print(name.lower())
 print(name.title())
 print(name.replace (name,"shafique"))
+print(name.count("a"))
+s="mahira"
+print(s.index("a"))
