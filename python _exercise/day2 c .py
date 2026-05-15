@@ -1,8 +1,8 @@
 import keyword
 from pydoc import text
-
 print(keyword.kwlist)
 
+#array
 name= "Mahira"
 print(name[0])
 print(name[1])
@@ -11,8 +11,10 @@ print(name[3])
 print(name[4])
 print(name[5])
 
-a=90.0
 
+#string function and type of variables
+
+a=90.0
 print(type(a))
 age = 90
 print(type(age))
